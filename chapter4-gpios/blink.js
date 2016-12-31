@@ -1,3 +1,4 @@
+//blink.js
 var onoff = require('onoff'); //#A
 
 var Gpio = onoff.Gpio,
